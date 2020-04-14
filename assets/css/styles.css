@@ -1,0 +1,12 @@
+ion-slides,app-home{
+	background: url(../imgs/fondo_a.png);
+	background-repeat: repeat-x;
+	color: #fff !important;
+  
+}
+
+
+
+.texto-negro{
+  color: #000000  !important;
+  }
